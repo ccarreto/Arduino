@@ -1,4 +1,0 @@
-RMotor KEYWORD1
-setPower KEYWORD2
-stop KEYWORD3
-convert KEYWORD4
